@@ -1,6 +1,6 @@
 A comprehensive React-based user management dashboard with interactive charts, user CRUD operations, and advanced filtering capabilities.
 
-Features: 
+## Features: 
 
 Dashboard
 
@@ -21,7 +21,7 @@ Modal Interface: Popup forms with blur background effect
 
 
 
-Tech Stack:
+## Tech Stack:
 
 React 19.1.1 - Frontend framework
 Tailwind CSS 4.1.12 - Styling
@@ -30,7 +30,7 @@ Lucide React - Icons
 Vite 7.1.2 - Build tool
 
 
-Installation:
+## Installation:
 
 Clone the repository:
 
@@ -48,8 +48,13 @@ Start the development server:
 npm run dev
 
 
-
 Build for Production:
 
 npm run build
+
+
+
+## Live Demo:
+
+[Click here to view the deployed project](https://user-dashboard-7kljlwj6o-jayesh-gawalis-projects.vercel.app)
 
